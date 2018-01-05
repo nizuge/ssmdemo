@@ -1,4 +1,4 @@
-package com.ssmdemo.model;
+package cn.anytec.model;
 
 public class Customer {
     private String name;

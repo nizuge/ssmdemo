@@ -1,4 +1,4 @@
-package com.ssmdemo.model;
+package cn.anytec.model;
 
 import java.util.ArrayList;
 import java.util.List;

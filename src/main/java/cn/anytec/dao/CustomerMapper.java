@@ -1,7 +1,7 @@
-package com.ssmdemo.dao;
+package cn.anytec.dao;
 
-import com.ssmdemo.model.Customer;
-import com.ssmdemo.model.CustomerExample;
+import cn.anytec.model.Customer;
+import cn.anytec.model.CustomerExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

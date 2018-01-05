@@ -1,6 +1,6 @@
-package com.ssmdemo.service.inf;
+package cn.anytec.service.inf;
 
-import com.ssmdemo.model.Customer;
+import cn.anytec.model.Customer;
 
 import java.util.List;
 

@@ -1,9 +1,9 @@
-package com.ssmdemo.service.impl;
+package cn.anytec.service.impl;
 
-import com.ssmdemo.dao.CustomerMapper;
-import com.ssmdemo.model.Customer;
-import com.ssmdemo.model.CustomerExample;
-import com.ssmdemo.service.inf.ICustomerService;
+import cn.anytec.dao.CustomerMapper;
+import cn.anytec.service.inf.ICustomerService;
+import cn.anytec.model.Customer;
+import cn.anytec.model.CustomerExample;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

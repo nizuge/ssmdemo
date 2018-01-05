@@ -1,0 +1,9 @@
+ScheduledExecutorService 重复执行一任务
+ReplayingDecoder 编解码器，判断数据接受是否完全
+ServerBootstrap  初始化netty服务器，并且开始监听端口的socket请求	
+ArrayDeque 自增队列
+CopyOnWriteArraySet  线程安全的集合
+ExecutorService 类似线程池
+@Sharable  标注一个channel handler(要保证是线程安全的)可以被多个channel安全地共享
+
+
